@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "6249cd7dfd2b6ec870e61eb1"
+  },
+  "ID_Palabra": "Mopri",
+  "Significao": "Significa Primo"
+},{
+  "_id": {
+    "$oid": "6249cd7dfd2b6ec870e61eb2"
+  },
+  "ID_Palabra": "Chantin",
+  "Significao": "Chantin quiere decir Casa"
+},{
+  "_id": {
+    "$oid": "6249cd7dfd2b6ec870e61eb3"
+  },
+  "ID_Palabra": "Oti",
+  "Significao": "Se le dice al Tio"
+},{
+  "_id": {
+    "$oid": "6249cd7dfd2b6ec870e61eb4"
+  },
+  "ID_Palabra": "Vieja(o)",
+  "Significao": "Mamá o Papá respectivamente."
+},{
+  "_id": {
+    "$oid": "6249cd7dfd2b6ec870e61eb5"
+  },
+  "ID_Palabra": "Tongo",
+  "Significao": "Se llama Tongo a los Policias"
+},{
+  "_id": {
+    "$oid": "6249cd7dfd2b6ec870e61eb6"
+  },
+  "ID_Palabra": "Awebao",
+  "Significao": "Persona tonta o que hace tonterias"
+},{
+  "_id": {
+    "$oid": "6249cd7dfd2b6ec870e61eb7"
+  },
+  "ID_Palabra": "cabreado",
+  "Significao": "Persona que esta molesta"
+},{
+  "_id": {
+    "$oid": "6249cfdbfd2b6ec870e61ebb"
+  },
+  "ID_Palabra": "Lofi",
+  "Significao": "Tambieno conocido como Filo. Hace referencia a un cuchillo"
+},{
+  "_id": {
+    "$oid": "6249d01dfd2b6ec870e61ebd"
+  },
+  "ID_Palabra": "Ofi",
+  "Significao": "Ofi significa si"
+}]
